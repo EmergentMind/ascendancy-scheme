@@ -1,7 +1,7 @@
 system: "base16"
 name: "Ascendancy"
 author: "EmergentMind (https://github.com/emergentmind/ascend](https://github.com/morhetz/gruvbox)ancy)"
-description: "The Ascendancy color palette aims to provide a comfortable spectrum of background and foreground shades complimented by soft but regal colors. The palette has a small bias towards golden colors without creating a sense of washed out overexposure."
+description: "The Ascendancy colour palette aims to provide a comfortable spectrum of background and foreground shades complimented by soft but regal colours. The palette has a small bias towards golden colours without creating a sense of washed out overexposure."
 variant: "dark"
 palette:
   base00: "#282828" # ----      Default Background

@@ -1,10 +1,15 @@
-# Ascendancy Palette
+# Ascendancy Colour Scheme 
 
-> The Ascendancy color palette aims to provide an comforting spectrum of background and foreground shades, complimented by soft but regal colors.
-> The palette has a small bias towards golden colors without creating a sense of washed out overexposure.
-> Inspired by [Gruvbox](https://github.com/morhetz/gruvbox) Dark, Medium as a foundation.
+<div align="center">
+<img src="tinted-theming-schemes-gallery.png" />
+</div>
 
-| color                                                | base0X | hex       | terminal equivalent | [base 16 styling guidelines](https://github.com/chriskempson/base16/blob/main/styling.md) |
+> The Ascendancy colour scheme aims to provide an comforting spectrum of background and foreground shades, complimented by soft but regal colours.
+> 
+> The palette has a small bias towards golden colours without creating a sense of washed out overexposure.
+
+## Palette
+| colour                                                | base0X | hex       | terminal equivalent | base 16 styling guidelines |
 | --------------------------------------------------   | ------ | -------   | -------------       | ---------------                                                                           |
 | ![#](https://placehold.co/25/282828/000000?text=%2B) | base00 | `#282828` | ----                | Default Background                                                                        |
 | ![#](https://placehold.co/25/212f3d/000000?text=%2B) | base01 | `#212f3d` | ---                 | Lighter Background (Used for status bars, line number and folding marks)                  |
@@ -22,4 +27,12 @@
 | ![#](https://placehold.co/25/458588/000000?text=%2B) | base0D | `#458588` | blue                | Functions, Methods, Attribute IDs, Headings                                               |
 | ![#](https://placehold.co/25/fabd2f/000000?text=%2B) | base0E | `#fabd2f` | magenta             | Keywords, Storage, Selector, Markup Italic, Diff Changed                                  |
 | ![#](https://placehold.co/25/b59b4d/000000?text=%2B) | base0F | `#b59b4d` | darkred             | Deprecated, Opening/Closing Embedded Language Tags, e.g. `<?php ?>`                       |
- 
+
+
+The the Ascendancy colour scheme is also hosted on the [tinted-theming/schemes](github.com/tinted-theming/schemes) repository; it can easily be applied to your environment by using any utility that references `tinted-theming` for colour schemes.
+
+For example, on NixOS, the Ascendancy colour scheme can be conveniently applied to your environment using utilities such as [stylix](https://github.com/nix-community/stylix) or [base16.nix](https://github.com/SenchoPens/base16.nix).
+
+## Acknowledgements
+
+Inspired by the [Gruvbox](https://github.com/morhetz/gruvbox) Dark, Medium scheme as a starting point.
