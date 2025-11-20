@@ -1,10 +1,10 @@
-# Ascendancy Colour Scheme 
-
 <div align="center">
+<h1> Ascendancy Colour Scheme</h1>
 <img src="tinted-theming-schemes-gallery.png" />
 </div>
 
-> The Ascendancy colour scheme aims to provide an comforting spectrum of background and foreground shades, complimented by soft but regal colours.
+
+> The Ascendancy colour scheme aims to provide a comforting spectrum of background and foreground shades, complimented by soft but regal colours.
 > 
 > The palette has a small bias towards golden colours without creating a sense of washed out overexposure.
 
@@ -29,9 +29,9 @@
 | ![#](https://placehold.co/25/b59b4d/000000?text=%2B) | base0F | `#b59b4d` | darkred             | Deprecated, Opening/Closing Embedded Language Tags, e.g. `<?php ?>`                       |
 
 
-The the Ascendancy colour scheme is also hosted on the [tinted-theming/schemes](github.com/tinted-theming/schemes) repository; it can easily be applied to your environment by using any utility that references `tinted-theming` for colour schemes.
+This scheme is also hosted on the [tinted-theming/schemes](github.com/tinted-theming/schemes) repository; it can easily be applied to your environment by using any utility that references `tinted-theming` for colour schemes.
 
-For example, on NixOS, the Ascendancy colour scheme can be conveniently applied to your environment using utilities such as [stylix](https://github.com/nix-community/stylix) or [base16.nix](https://github.com/SenchoPens/base16.nix).
+For example, on NixOS, the scheme can be conveniently applied to your environment using utilities such as [stylix](https://github.com/nix-community/stylix) or [base16.nix](https://github.com/SenchoPens/base16.nix).
 
 ## Acknowledgements
 
